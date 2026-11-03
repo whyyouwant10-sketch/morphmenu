@@ -1,7 +1,7 @@
 # MorphMenu test report
 
-**Date:** 2026-11-04  
-**Environment:** Debian Linux container, CPython 3.11.2  
+**Date:** 2026-11-04
+**Environment:** Debian Linux container, CPython 3.11.2
 **Scope:** release-asset and clean-install verification for the existing v0.1 implementation
 
 ## Full test suite from the source checkout
